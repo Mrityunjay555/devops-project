@@ -4,7 +4,7 @@
 set -e
 
 # Configuration
-DOCKER_USERNAME="xanderbilla"
+DOCKER_USERNAME="mrityunjay555"
 BACKEND_IMAGE_NAME="devops-backend"
 FRONTEND_IMAGE_NAME="devops-frontend"
 VERSION_FILE="version.txt"
